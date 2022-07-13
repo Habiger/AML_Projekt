@@ -1,0 +1,18 @@
+
+Discovering Symbolic Models from Deep Learning with Inductive Biases   
+https://arxiv.org/pdf/2006.11287.pdf
+
+Uncovering differential equations from data with hidden variables
+https://www.aristas.com.ar/img/docs/Uncovering_differential_equations.pdf
+
+Deep Learning and Symbolic Regression for Discovering Parametric Equations
+https://arxiv.org/pdf/2207.00529.pdf
+
+
+
+
+demo with deep leanring from cramner:
+https://github.com/MilesCranmer/PySR/blob/master/examples/pysr_demo.ipynb
+
+
+https://sites.google.com/site/hiegravity/data-sources
